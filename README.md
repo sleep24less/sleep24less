@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rektjesus
-- 👀 I’m interested in front-end.
-- 🌱 I’m currently learning fundamentals of front-end, and javascript.
+- 👀 I’m interested in front-end development.
+- 🌱 I’m currently learning fundamentals of html, css and javascript.
 - 💞️ I’m looking to collaborate on learning to code.
 - 📫 How to reach me: arnas.manucan@gmail.com
 
