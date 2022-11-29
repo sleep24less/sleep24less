@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @rektjesus
-- 👀 I’m interested in front-end development.
-- 🌱 I’m currently learning fundamentals of html, css and javascript.
-- 💞️ I’m looking to collaborate on learning to code.
+- 👋 Hi, I’m Arno!
+- 👀 I’m a self-taught Front-End/React developer.
+- 🌱 I’m still learning new things everyday to become the best I can.
+- 💼 I’m currently looking for job opportunities as a Front-End/React Developer.
 - 📫 How to reach me: arnas.manucan@gmail.com
 
 <!---
-rektjesus/rektjesus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sleep24less/sleep24less is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
