@@ -3,6 +3,7 @@
 - 🌱 I’m still learning new things everyday to become the best I can.
 - 💼 I’m currently looking for job opportunities as a Front-End/React Developer.
 - 📫 How to reach me: arnas.manucan@gmail.com
+- 🔎 Check out my personal website: [Click Here!](https://sleep24less.github.io/personal-site)
 
 <!---
 sleep24less/sleep24less is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
